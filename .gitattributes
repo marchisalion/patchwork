@@ -3,4 +3,3 @@
 git remote add origin https://github.com/ruiruienvy/hello-world.git
 git branch -M main
 git push -u origin main
-hihihihi
